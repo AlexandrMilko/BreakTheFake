@@ -1,5 +1,6 @@
 # BreakTheFake
 Automated check if an article is a fake one or not.
+There are lots of work to do further, but it still works for some articles.
 
 This project was done by my friends and me on HackYeah 2022 in 24hours. OUR TEAM:
 - David
@@ -10,9 +11,8 @@ This project was done by my friends and me on HackYeah 2022 in 24hours. OUR TEAM
 - @AlexandrMilko
 
 INSTALLATION:
-1. Download java installer jdk-18.0.2.1_windows-x64_bin.exe
-2. Put it into the BreakTheFake folder
-3. pip install -r requirements.txt
+1. Install jdk-18.0.2.1
+2. pip install -r requirements.txt
 
 RUN:
 1. python maingui.py
