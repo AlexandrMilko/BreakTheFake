@@ -4,7 +4,7 @@ There are lots of work to do further, but it still works for some articles.
 
 This project was done by my friends and me on HackYeah 2022 in 24hours. OUR TEAM:
 - David
-- Ola
+- @akrzeszewska
 - @shurikandrew
 - @mkdir28
 - @Kr1us
