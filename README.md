@@ -3,7 +3,7 @@ Automated check if an article is a fake one or not.
 There are lots of work to do further, but it still works for some articles.
 
 This project was done by my friends and me on HackYeah 2022 in 24hours. OUR TEAM:
-- David
+- @DawidTambor
 - @akrzeszewska
 - @shurikandrew
 - @mkdir28
